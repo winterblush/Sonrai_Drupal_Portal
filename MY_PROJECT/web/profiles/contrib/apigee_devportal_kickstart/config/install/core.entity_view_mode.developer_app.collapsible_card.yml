@@ -1,9 +1,0 @@
-langcode: en
-status: true
-dependencies:
-  module:
-    - apigee_edge
-id: developer_app.collapsible_card
-label: 'Collapsible card'
-targetEntityType: developer_app
-cache: true
